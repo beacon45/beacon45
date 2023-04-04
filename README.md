@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/beacon45003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beacon45003" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/souvik-banik-6565b2246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/souvik-banik-6565b2246" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_beacon45_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_beacon45_/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_beacon45_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_beacon45_/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
